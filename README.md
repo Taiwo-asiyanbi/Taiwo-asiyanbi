@@ -1,6 +1,6 @@
  👋 Hello! I'm Taiwo Asiyanbi 
 
- 💻 Aspiring Node.js Backend Developer
+ 💻 Node.js Backend Developer
 
 I am currently focused on building robust and scalable server-side applications using the Node.js ecosystem. My learning journey is centered around:
 
